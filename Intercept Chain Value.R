@@ -2,6 +2,7 @@ library(plotly)
 library(dplyr)
 library(tidyr)
 
+squad.stats.for <- read_csv("squad.stats.for.csv")
 zone.stats <- readRDS("zone_stats.RDS")
 
 # INTERCEPT SCORING EFFICIENCY ANALYSIS
