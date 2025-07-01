@@ -2,6 +2,8 @@ library(plotly)
 library(dplyr)
 library(tidyr)
 
+zone.stats <- readRDS("zone_stats.RDS")
+
 # STOPPAGE SCORING EFFICIENCY ANALYSIS
 # ====================================
 
