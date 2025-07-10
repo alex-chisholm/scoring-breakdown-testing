@@ -8,8 +8,8 @@ library(shinyjs)
 library(tidyr)
 
 # Load data files (assuming same structure as DNA app)
-squad.stats.for <- read_csv("squad.stats.for.csv")
-zone.stats <- readRDS("zone_stats.RDS")
+# squad.stats.for <- read_csv("squad.stats.for.csv")
+# zone.stats <- readRDS("zone_stats.RDS")
 
 # Source the intercept and stoppage analysis functions
 source("Intercept Chain Value.R")
