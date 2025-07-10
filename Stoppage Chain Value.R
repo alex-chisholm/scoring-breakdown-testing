@@ -2,8 +2,8 @@ library(plotly)
 library(dplyr)
 library(tidyr)
 
-squad.stats.for <- read_csv("squad.stats.for.csv")
-zone.stats <- readRDS("zone_stats.RDS")
+# squad.stats.for <- read_csv("squad.stats.for.csv")
+# zone.stats <- readRDS("zone_stats.RDS")
 
 # STOPPAGE SCORING EFFICIENCY ANALYSIS
 # ====================================
