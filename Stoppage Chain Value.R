@@ -398,7 +398,7 @@ run_stoppage_analysis <- function(zone_stats, squad_stats_for) {
 }
 
 # Then run the analysis with your zone_stats data
-stoppage_results <- run_stoppage_analysis(zone.stats, squad.stats.for)
+# stoppage_results <- run_stoppage_analysis(zone.stats, squad.stats.for)
 
 # Display the plot
-stoppage_results$plot
+# stoppage_results$plot
