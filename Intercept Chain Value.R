@@ -350,7 +350,7 @@ run_intercept_analysis <- function(zone_stats) {
 }
 
 # Then run the analysis with your zone_stats data
-intercept_results <- run_intercept_analysis(zone.stats)
+# intercept_results <- run_intercept_analysis(zone.stats)
 
 # Display the plot
-intercept_results$plot
+# intercept_results$plot
